@@ -1,0 +1,4 @@
+train: VOCdevkit/images/train
+val: VOCdevkit/images/val
+nc: 2
+names: ["ripe","immaturity"]
